@@ -1,6 +1,6 @@
 const apiKey = "552ad1d70aa376a7e83f42fbfbac9283";
 
-    const apiUrl = "https://api.adbutler.com/v2/ad-items";
+    const apiUrl = "https://api.adbutler.com/v2/ad-items?type=ad-item&period=day&preset=yesterday&timezone=America%2FChicago&details=true&financials=false&breakdown=false&publisher=67574";
 
     const options = {
 
